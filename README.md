@@ -59,3 +59,5 @@ cd src
 java program.Cliente
 ```
 Pronto! Basta digitar seu nome, seu palpite e tentar a sorte para abrir o cofre.
+
+### Um ponto interessante é que você pode observar, no terminal que executa o servidor, os clientes que estão se conectando.
